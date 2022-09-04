@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Contact me:
 
-- [📧 Email](alexsapunkov1993@gmail.com) 
+- [📧 Email](mailto:alexsapunkov1993@gmail.com) 
 - [✈️ Telegram](https://t.me/Aleksey_Sapunkov)

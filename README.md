@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aleksey Sapunkov
-- 👀 I’m interested in ...
+- 👀 I’m interested in being a front-end developer
 - 🌱 I’m currently learning HTML, CSS, JS, GIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 

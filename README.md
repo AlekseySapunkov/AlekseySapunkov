@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JS, GIT
 - My education: Volgograd State Technical University, Bachelor in Mechanical Engineering.
 - 📫 How to reach me: 
-- - [📧 Email](mailto:alexsapunkov1993@gmail.com) 
+- - [📧 Email](alexsapunkov1993@gmail.com) 
 - - [✈️ Telegram](https://t.me/Aleksey_Sapunkov)
 
 <!---

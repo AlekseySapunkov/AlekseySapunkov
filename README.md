@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aleksey Sapunkov
 - 👀 I’m interested in becoming a front-end developer
-- 🌱 I’m currently learning HTML, CSS, JS, GIT
+- 🌱 I’m currently learning HTML, CSS, JS, GIT, React
 - My education: Volgograd State Technical University, Bachelor in Mechanical Engineering.
 - 📫 How to reach me: 
 - - 📧 Email: alexsapunkov1993@gmail.com
